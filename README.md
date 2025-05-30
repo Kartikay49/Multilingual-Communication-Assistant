@@ -115,7 +115,7 @@ npm start
 ## 🔬 Research Reference
 
 This project is part of an academic research initiative.
-Read the full paper: [`Multilingual Communication Assistant for Seamless Cross-Cultural Interaction`](./ijarcce.com/papers/multilingual-communication-assistant-bridging-language-and-cultural-barriers-with-real-time-context-aware-translation/)
+Read the full paper: [`Multilingual Communication Assistant for Seamless Cross-Cultural Interaction`](/ijarcce.com/papers/multilingual-communication-assistant-bridging-language-and-cultural-barriers-with-real-time-context-aware-translation/)
 
 ---
 
